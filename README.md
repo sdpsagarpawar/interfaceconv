@@ -23,4 +23,8 @@ a:="1"
 intValue:=interfaceconv.ToInt(a)
 a:=1
 intValue:=interfaceconv.ToString(a)
+a:=1
+intValue:=interfaceconv.ToFloat(a)
+a:="john doe"
+intValue:=interfaceconv.ToByte(a)
 ```
