@@ -4,6 +4,8 @@ The zip package provides a fast and simple interface conversion.
 
 - ToString
 - ToInt
+- ToFloat
+- ToByte
 
 ## Features
 - Simply call function to covert interface
