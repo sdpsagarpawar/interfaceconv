@@ -46,7 +46,7 @@ package main
 
 import (
     "fmt"
-    "github.com/your-username/interfaceconv"
+    "github.com/sdpsagarpawar/interfaceconv"
 )
 
 func main() {
